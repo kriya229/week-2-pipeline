@@ -1,0 +1,5 @@
+case_id,title,priority,sla_hours
+101,Login Issue,High,24
+102,Billing Error,Medium,48
+201,App crash,High,24
+202,Slow loading,Low,72
